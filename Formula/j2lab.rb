@@ -1,4 +1,4 @@
-class Jira2gitlab < Formula
+class J2lab < Formula
     desc "A binary for jira to gitlab migration"
     homepage "https://gitlab.com/infograb-public/J2Lab"
     version "v0.0.1"
